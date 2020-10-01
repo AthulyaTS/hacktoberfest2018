@@ -1,6 +1,6 @@
 # Hacktoberfest 2018
  Anyone can contribute to this repo to make their contribution to open-source on <a target="_blank" href="https://github.com/">Github</a>
- 
+ Hurry!!
  Celebrate <a href="https://hacktoberfest.digitalocean.com/" target="_blank">HacktoberFest</a> by getting involved in the Open Source Community by completing some simple tasks in this project.
  
  This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
@@ -29,7 +29,7 @@
 + Random Number algorithms
 + Number Reversal algorithms
 + Fibonacci series
-+ Is Number a palindrome?
++ Is Number a palindrome or not?
 + Is number a perfect square?
 + Is string a pangram?
 + Find the factorial of a number.
@@ -37,7 +37,7 @@
 + Create an arrow using CSS.
 + Convert Roman numeral.
 + Telephone number validator.
-
++ Sum of two numbers.
 ## Getting Started
 
 * Add your name to the CONTRIBUTORS.md file using following model
